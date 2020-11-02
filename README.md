@@ -16,7 +16,7 @@ Standalone SCope apps for macOS and Linux can be downloaded from [here](https://
 
 ## Data availability
 
-The single-cell and bulk RNA-seq and ATAC-seq data have also been deposited in GEO under the accession number [GSE145609](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145609).
+The single-cell and bulk RNA-seq data have also been deposited in GEO under the accession number [GSE145609](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE145609).
 
 ## Code availability 
 
