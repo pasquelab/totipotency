@@ -1,6 +1,6 @@
 # Defining totipotency using criteria of increasing stringency
 
-Scripts related to the current version of our manuscript entitled "Defining totipotency using criteria of increasing stringency" published in ..., previously available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.02.972893v1).
+Scripts related to the current version of our manuscript entitled "Defining totipotency using criteria of increasing stringency" available on [bioRxiv](https://www.biorxiv.org/content/10.1101/2020.03.02.972893v1).
 
 ## Loom files for data visualization
 
